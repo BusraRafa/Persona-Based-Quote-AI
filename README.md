@@ -69,7 +69,7 @@ python new_app.py
 ```
 Or try experimental version:
 ```
-python shahin_app.py
+python app.py
 ```
 
 ## 🧪 File Roles
