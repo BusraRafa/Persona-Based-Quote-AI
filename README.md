@@ -22,7 +22,7 @@ It is useful for:
 Persona-Based-Quote-AI/
 │── prompt.py # Core persona definitions and prompt engineering logic
 │── new_app.py # Main application (latest working version)
-│── shahin_app.py # Experimental / alternate version of the app
+│── app.py # Experimental / alternate version of the app
 ```
 
 ---
@@ -76,6 +76,6 @@ python shahin_app.py
 ```
 prompt.py → Persona definitions + prompt logic
 new_app.py → Main production app
-shahin_app.py → Experimental testing version
+app.py → Experimental testing version
 ```
 
