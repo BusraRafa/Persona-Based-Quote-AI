@@ -20,9 +20,9 @@ It is useful for:
 ## 📂 Project Structure
 ```
 Persona-Based-Quote-AI/
-│── prompt.py # Core persona definitions and prompt engineering logic
-│── new_app.py # Main application (latest working version)
-│── app.py # Experimental / alternate version of the app
+│── prompt.py         # Core persona definitions and prompt engineering logic
+│── new_app.py        # Main application (latest working version)
+│── app.py            # Experimental / alternate version of the app
 ```
 
 ---
